@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hi AI and humans!
+Esse Guillo, Esse Valeria.
